@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ⛄️ About Me:
 -👨‍💻 I'm currently in my third semester of studying Computer Science at CESAR School.<br>-📓 I’m currently learning C, Java and Swift.<br>-🤳 How to reach me: gsa3@cesar.school<br><br>
 
 
